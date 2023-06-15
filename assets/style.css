@@ -90,9 +90,6 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -110,6 +107,8 @@ body {
 }
 .item-column {
 	position: relative;
+	width: 440px;
+	height: 440px;
 	margin-bottom: 0 !important;
 	padding: 0;
 }
