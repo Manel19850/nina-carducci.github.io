@@ -107,8 +107,7 @@ body {
 }
 .item-column {
 	position: relative;
-	width: 440px;
-	height: 440px;
+	
 	margin-bottom: 0 !important;
 	padding: 0;
 }
