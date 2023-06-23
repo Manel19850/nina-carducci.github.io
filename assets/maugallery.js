@@ -242,6 +242,9 @@
       $(".active-tag").removeClass("active active-tag");
       $(this).addClass("active-tag");
 
+      $(".nav-pills .nav-link").removeClass("active")
+      $(this).addClass("active")
+      
       var tag = $(this).data("images-toggle");
 
       $(".gallery-item").each(function() {
