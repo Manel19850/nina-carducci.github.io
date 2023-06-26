@@ -99,8 +99,8 @@ body {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link,.nav-pills .nav-link:hover  {
-	color: #fff;
-	background-color: #BEB45A;
+	color: #000;
+	background-color: #F0E68C;
 	border-radius:0 ;
 }
 
