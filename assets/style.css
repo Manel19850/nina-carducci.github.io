@@ -98,13 +98,11 @@ body {
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link,.nav-pills .nav-link:hover  {
-	color: #000;
-	background-color: #F0E68C;
+.nav-pills .nav-link.active{
+	color: #fff;
+	background-color: #565A26;
 	border-radius:0 ;
 }
-
-
 .nav-pills .nav-link {
 	color: #000
 }
