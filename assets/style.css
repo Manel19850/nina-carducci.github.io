@@ -68,9 +68,11 @@ body {
 }
 
 .picture img {
-	width: 100%;
+	width: 440px;
+	height: 440px;
 
 }
+
 #about-me {
 	flex: 2
 }
@@ -116,6 +118,11 @@ body {
 	display: block;
 	padding-bottom: 100%;
 
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
 }
 
 .picture
